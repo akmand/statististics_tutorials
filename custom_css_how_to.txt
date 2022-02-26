@@ -1,0 +1,7 @@
+How to activate custom jupyter notebook style files:
+For Mac (PC will be similar):
+> cd .jupyter (under home directory)
+> mkdir custom
+> cd custom
+> cp /Users/akman/downloads/custom.css (that is, copy the css file here)
+> # enjoy!
