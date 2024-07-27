@@ -2,10 +2,8 @@
 ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 # Statistics Tutorials/ OpenIntro Labs for Python
-=========================
 
 This repository is a collection of Jupyter Notebook tutorials to teach how to do data analysis with Python based on OpenIntro Statistics, a free and open-source textbook. These have been tested with Python 3.11.
-
 
 ## Tutorials
 
