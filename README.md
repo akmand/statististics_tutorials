@@ -3,7 +3,7 @@
 
 # Statistics Tutorials/ OpenIntro Labs for Python
 
-This repository is a collection of Jupyter Notebook tutorials to teach how to do data analysis with Python based on [OpenIntro Statistics](https://www.openintro.org/book/os/), a free and open-source textbook. These have been tested with Python 3.11.
+This repository is a collection of Jupyter Notebook tutorials to teach how to do data analysis with Python based on [OpenIntro Statistics](https://www.openintro.org/book/os/), a free and open-source textbook. These notebooks have been tested with Python 3.11.
 
 ## Tutorials
 
